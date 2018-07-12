@@ -1,5 +1,9 @@
 # Using this template
 
+## For this repo
+
+First, for this repository.
+
 ## Put your name
 
 Before using this template, you should open `LICENSE.md` and replace `Your Name` with your name.

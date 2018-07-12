@@ -1,41 +1,47 @@
-# Using this template
+# typescript-module-template
 
-## For this repo
+This is a template to develop and deploy a new module in TypeScript.
+
+## Features
+
+* Use rollup through [bili](https://github.com/egoist/bili)
+* Extract table of contents from README.md
+* Use `jest`, no need to configure anything
+
+## Using this template
+
+### Fork this repo
 
 First, for this repository.
 
-## Put your name
+### Put your name
 
 Before using this template, you should open `LICENSE.md` and replace `Your Name` with your name.
 At the bottom of this file, there's another `Your Name` to be replaced and the broken link to the license file.
 
-## Scripts
+### Built-in Scripts
 
-### build
-
-`npm run build`
-
-### test
+#### test
 
 `npm run test`
 
-### testWatch
+#### testWatch
 
 `npm run testWatch`
 
-### toc
+#### toc
 
 `npm run toc`
 
 This will extract table of contents from `README.md` and insert it back to `README.md`.
 
-### patch
+#### patch
 
 `npm run patch`
 
 This will deploy your module with patch version increased.
 
-### minor
+#### minor
 
 `npm run minor`
 
@@ -63,4 +69,4 @@ This will deploy your module with minor version increased.
 
 # Author
 
-Your Name, Released under the [MIT](./blob/master/LICENSE.md) License.
+Your Name, Released under the [MIT](../../blob/master/LICENSE.md) License.

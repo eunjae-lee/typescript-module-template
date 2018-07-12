@@ -5,8 +5,8 @@ This is a template to develop and deploy a new module in TypeScript.
 ## Features
 
 * Use rollup through [bili](https://github.com/egoist/bili)
-* Extract table of contents from README.md
 * Use `jest`, no need to configure anything
+* Extract table of contents from README.md
 
 ## Using this template
 
@@ -17,7 +17,7 @@ First, for this repository.
 ### Put your name
 
 Before using this template, you should open `LICENSE.md` and replace `Your Name` with your name.
-At the bottom of this file, there's another `Your Name` to be replaced and the broken link to the license file.
+At the bottom of this file, there's another `Your Name` to be replaced.
 
 ### Built-in Scripts
 

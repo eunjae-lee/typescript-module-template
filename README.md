@@ -12,7 +12,7 @@ This is a template to develop and deploy a new module in TypeScript.
 
 ### Fork this repo
 
-First, for this repository.
+First, fork this repository.
 
 ### Put your name
 
